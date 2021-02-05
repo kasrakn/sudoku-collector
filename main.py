@@ -23,7 +23,6 @@ img = table.screenshot_as_png
 with open('./outputs/1.png', 'wb') as file:
     file.write(img)
 
-
 for i in range(number - 1):
 
     game_tip = browser.find_element_by_xpath('/html/body/div[1]/div/div[1]/div[2]/div[1]/div[3]')
