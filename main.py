@@ -1,6 +1,6 @@
 from time import sleep
 
-import pyscreenshot
+# import pyscreenshot
 from selenium import webdriver
 
 number = int(input("number of sudokus:\t"))

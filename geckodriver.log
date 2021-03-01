@@ -436,3 +436,89 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 1612110575931	Marionette	WARN	TLS certificate errors will be ignored for this session
 JavaScript error: , line 0: uncaught exception: undefined
 1612111115956	Marionette	INFO	Stopped listening on port 45737
+1613064259144	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.EGzTnW66CAF6"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613064261338	Marionette	INFO	Listening on port 33141
+1613064261406	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613064261421	Marionette	ERROR	[15] No reply from Marionette:Register
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+JavaScript error: https://googleads.g.doubleclick.net/pagead/ads?npa=1&guci=1.2.0.0.2.1.0.0&client=ca-pub-7776936375791793&output=html&h=90&slotname=7558534741&adk=3306985115&adf=2744733413&pi=t.ma~as.7558534741&w=728&fwrn=1&fwrnh=100&lmt=1613064279&rafmt=2&psa=0&format=728x90&url=https%3A%2F%2Fsudoku.com%2Fexpert%2F&flash=0&fwr=0&fwrattr=false&rpe=1&resp_fmts=2&wgl=1&adsid=NT&dt=1613064273183&bpp=10&bdt=3395&idt=814&shv=r20210208&cbv=r20190131&ptt=9&saldr=aa&abxe=1&correlator=5783629160689&frm=20&pv=2&ga_vid=815735610.1613064280&ga_sid=1613064280&ga_hid=1796699507&ga_fc=0&u_tz=210&u_his=1&u_java=0&u_h=1080&u_w=1920&u_ah=1053&u_aw=1920&u_cd=24&u_nplug=0&u_nmime=0&adx=110&ady=658&biw=1268&bih=873&scr_x=0&scr_y=0&eid=21066429%2C21068084%2C21068769%2C21068893%2C31060049&oid=3&pvsid=2613171801867266&pem=493&rx=0&eae=0&fc=896&brdim=8%2C35%2C8%2C35%2C1920%2C27%2C1280%2C947%2C1280%2C873&vis=1&rsz=o%7C%7CpeE%7C&abl=CS&pfx=0&fu=8320&bc=31&ifi=1&uci=a!1&fsb=1&xpc=tcMKIis10R&p=https%3A//sudoku.com&dtd=6668, line 1: ReferenceError: buildAttribution is not defined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript warning: resource://devtools/client/shared/demangle.js, line 0: Successfully compiled asm.js code (total compilation time 69ms)
+
+(firefox:8126): GLib-GObject-CRITICAL **: 20:57:19.045: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8126): GLib-GObject-CRITICAL **: 20:57:19.045: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8126): GLib-GObject-CRITICAL **: 20:57:19.046: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8126): GLib-GObject-CRITICAL **: 20:57:19.046: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8126): GLib-GObject-CRITICAL **: 20:57:19.046: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8126): GLib-GObject-CRITICAL **: 20:57:19.046: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8126): GLib-GObject-CRITICAL **: 20:57:19.049: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8126): GLib-GObject-CRITICAL **: 20:57:19.049: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8126): GLib-GObject-CRITICAL **: 20:57:19.067: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8126): GLib-GObject-WARNING **: 20:57:19.079: ../../../../gobject/gsignal.c:3492: signal name 'load_complete' is invalid for instance '0x7f57abb4e150' of type 'MaiAtkType139'
+
+(firefox:8126): GLib-GObject-WARNING **: 20:57:19.082: ../../../../gobject/gsignal.c:3492: signal name 'load_complete' is invalid for instance '0x7f57abef0830' of type 'MaiAtkType139'
+
+(firefox:8126): GLib-GObject-WARNING **: 20:57:19.082: ../../../../gobject/gsignal.c:3492: signal name 'load_complete' is invalid for instance '0x7f57abef0290' of type 'MaiAtkType139'
+
+(firefox:8126): GLib-GObject-CRITICAL **: 20:57:19.125: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8126): GLib-GObject-CRITICAL **: 20:57:29.155: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8126): GLib-GObject-CRITICAL **: 20:57:31.388: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8126): GLib-GObject-CRITICAL **: 20:57:50.199: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8126): GLib-GObject-CRITICAL **: 20:58:24.185: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8126): GLib-GObject-CRITICAL **: 20:58:24.420: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+console.warn: "Error fetching accessible details: " "server0.conn0.child3/accessible638" (new Error("Protocol error (noSuchActor): No such actor for ID: server0.conn0.child3/accessible638 from: server0.conn0.child3/accessible638", "resource://devtools/shared/protocol/Front.js", 361))
+console.warn: "Failed to enumerate CacheStorage for host https://googleads.g.doubleclick.net: SecurityError: The operation is insecure."
+1613064536648	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.z3iV13IozcNS"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613064538650	Marionette	INFO	Listening on port 43319
+1613064538681	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613064538698	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: "Failed to enumerate CacheStorage for host https://tpc.googlesyndication.com: SecurityError: The operation is insecure."
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: resource://devtools/client/jsonview/Sniffer.jsm, line 56: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+JavaScript error: resource://devtools/client/jsonview/Sniffer.jsm, line 56: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+1613065520744	Marionette	INFO	Stopped listening on port 43319
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Handler function threw an exception: TypeError: can't access dead object
+Stack: get currentNodeDocument@resource://devtools/server/actors/highlighters/fonts.js:56:9
+hide@resource://devtools/server/actors/highlighters/fonts.js:116:17
+destroy@resource://devtools/server/actors/highlighters/fonts.js:47:10
+finalize@resource://devtools/server/actors/highlighters.js:165:27
+destroy@resource://devtools/server/actors/highlighters.js:99:12
+destroy@resource://devtools/shared/protocol/Pool.js:189:17
+destroy@resource://devtools/shared/protocol/Actor.js:76:11
+destroy@resource://devtools/server/actors/inspector/inspector.js:113:38
+destroy@resource://devtools/shared/protocol/Pool.js:189:17
+_detach@resource://devtools/server/actors/targets/browsing-context.js:1018:35
+exit@resource://devtools/server/actors/targets/browsing-context.js:589:10
+destroy@resource://devtools/server/actors/targets/browsing-context.js:568:10
+onClosed/<@resource://devtools/server/devtools-server-connection.js:493:34
+onClosed@resource://devtools/server/devtools-server-connection.js:493:19
+close@resource://devtools/shared/transport/child-transport.js:63:18
+close@resource://devtools/server/devtools-server-connection.js:94:23
+onDisconnect<@resource://devtools/server/startup/frame.js:106:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 56, column: 9
+console.error: (new TypeError("can't access dead object", "resource://devtools/server/actors/highlighters/fonts.js", 56))
+1613065522196	Marionette	INFO	Stopped listening on port 33141
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
