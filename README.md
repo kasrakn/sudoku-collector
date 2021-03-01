@@ -6,7 +6,7 @@ This script is just a simple code which uses python selenium to collect specifie
 
 ## Install the required python packages: 
 
-In order to install the python packages, you just need to run the command below:
+In order to install the python packages, you just need to run the command bellow:
 
 ```bash
 pip install -r requirements.txt
